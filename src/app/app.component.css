@@ -1,8 +1,10 @@
 h1{
-  height: 130px;
+  height: 120px;
+  background-size: cover;
   color: white;
-  background-color: rgb(135, 150, 235);
-  background-image: url(https://image.freepik.com/free-vector/template-quotes-blue-background_1017-4416.jpg)
+  background-color: rgb(235, 225, 135);
+  background-image: url(/assets/photo.jpeg);
+  background-repeat: no-repeat;
 
 }
 
